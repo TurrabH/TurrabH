@@ -20,6 +20,7 @@
   - [Akhrajaat.pk](https://github.com/TurrabH/Akhrajaat.pk)
   - [Cryptoverse](https://github.com/TurrabH/Cryptoverse)
   - [Rapid Pay Api](https://github.com/TurrabH/RapidApi)
+  - [Bingo-POS](https://github.com/TurrabH/Bingo-POS)
  
 - <b>Cross-platform Mobile App Dev(.NET Maui)</b>
   - [GamePortal](https://github.com/TurrabH/GamePortal)
