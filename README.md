@@ -15,6 +15,15 @@
 
 <p align="center"><a href="http://www.github.com/TurrabH"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TurrabH&stroke=a855f7&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=a855f7&currStreakLabel=6366f1&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a></p>
 
+- <b>Web Dev(.NET with React & Angular)</b>
+  - [Resigna](https://github.com/TurrabH/Resigna)
+  - [Akhrajaat.pk](https://github.com/TurrabH/Akhrajaat.pk)
+  - [Cryptoverse](https://github.com/TurrabH/Cryptoverse)
+  - [Rapid Pay Api](https://github.com/TurrabH/RapidApi)
+ 
+- <b>Cross-platform Mobile App Dev(.NET Maui)</b>
+  - [GamePortal](https://github.com/TurrabH/GamePortal)
+  - [SpaceXHistory](https://github.com/TurrabH/SpaceXHistory)
 
 ### Connect with me:
 Reach me out at [sturrabhussain@gmail.com](mailto:sturrabhussain@gmail.com?subject=Got%20an%20opportunity%20for%20you)
