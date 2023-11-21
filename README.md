@@ -1,6 +1,6 @@
-# <p align="center">☮ Hey, I am a senior software engineer</p>
+# <p align="center">☮ Hey, welcome to my codespace!</p>
 
-### <p align="center">Comp Sci graduate from PU. I like web dev, app dev, and chess.</p>
+### <p align="center">I am senior software engineer, a Comp Sci graduate from PU. I like to code, and travel.</p>
 
 <a align="center"><p align="center">![](https://komarev.com/ghpvc/?username=TurrabH)</p></a>
 <br/> 
