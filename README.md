@@ -15,10 +15,12 @@
 
 <p align="center"><a href="http://www.github.com/TurrabH"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TurrabH&stroke=a855f7&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=a855f7&currStreakLabel=6366f1&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a></p>
 
-- <b>Web Dev(.NET with React & Angular)</b>
+- <b>Frontend portfolio(React & Angular)</b>
   - [Resigna](https://github.com/TurrabH/Resigna)
   - [Akhrajaat.pk](https://github.com/TurrabH/Akhrajaat.pk)
   - [Cryptoverse](https://github.com/TurrabH/Cryptoverse)
+
+- <b>Backend portfolio(.NET Core, .NET Framework)</b>
   - [Rapid Pay Api](https://github.com/TurrabH/RapidApi)
   - [Bingo-POS](https://github.com/TurrabH/Bingo-POS)
  
