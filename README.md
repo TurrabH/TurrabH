@@ -25,7 +25,8 @@
   - [Bingo-POS](https://github.com/TurrabH/Bingo-POS)
  
 - <b>Desktop Application(.NET Core, .NET Framework)</b>
-  - [FastFoodPOS](https://github.com/TurrabH/Desktop-POS)
+  - [FastFood-POS](https://github.com/TurrabH/Desktop-POS)
+  - [Banking-POS](https://github.com/TurrabH/BankingPOS)
  
 - <b>Cross-platform Mobile App Dev(.NET Maui)</b>
   - [GamePortal](https://github.com/TurrabH/GamePortal)
