@@ -24,6 +24,11 @@
   - [Rapid Pay Api](https://github.com/TurrabH/RapidApi)
   - [Bingo-POS](https://github.com/TurrabH/Bingo-POS)
  
+- <b>Desktop Application(.NET Core, .NET Framework)</b>
+  - [GamePortal](https://github.com/TurrabH/GamePortal)
+  - [FastFoodPOS](https://github.com/TurrabH/Desktop-POS)
+  - [SpaceXHistory](https://github.com/TurrabH/SpaceXHistory)
+ 
 - <b>Cross-platform Mobile App Dev(.NET Maui)</b>
   - [GamePortal](https://github.com/TurrabH/GamePortal)
   - [SpaceXHistory](https://github.com/TurrabH/SpaceXHistory)
