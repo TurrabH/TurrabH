@@ -22,7 +22,7 @@
 
 - <b>Backend portfolio(.NET Core, .NET Framework)</b>
   - [Rapid Pay Api](https://github.com/TurrabH/RapidApi)
-  - [Bingo-POS](https://github.com/TurrabH/Bingo-POS)
+  - [EcommerceProject](https://github.com/TurrabH/nopCommerce)
  
 - <b>Desktop Application(.NET Core, .NET Framework)</b>
   - [FastFood-POS](https://github.com/TurrabH/Desktop-POS)
